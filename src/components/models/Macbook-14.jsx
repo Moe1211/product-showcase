@@ -59,4 +59,4 @@ export default function MacbookModel14(props) {
   )
 }
 
-useGLTF.preload('/models/macbook-14-transformed.glb')
+useGLTF.preload('https://3d-cdn.drninja.net/macbook-14-transformed.glb')
